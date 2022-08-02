@@ -1,0 +1,3 @@
+answer : first, int height...
+	 second, string in printf
+	 third, return 0;
